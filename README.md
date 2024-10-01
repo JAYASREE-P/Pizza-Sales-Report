@@ -1,4 +1,4 @@
-# Pizza Sales Portfolio Project – SQL & Power BI
+# Pizza Sales Project – SQL & Power BI
 
 
 
